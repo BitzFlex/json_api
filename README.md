@@ -1,21 +1,7 @@
 # JsonApi
 
-**TODO: Add description**
+https://jsonplaceholder.typicode.com/todos 페이지에서 
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `json_api` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:json_api, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/json_api](https://hexdocs.pm/json_api).
+JSON 내용을 가져와서  , 이중 completed 가 false 인 항목들만을 추출하여 
+출력하는 Elixir Program 예제 소스 파일 입니다.
 
